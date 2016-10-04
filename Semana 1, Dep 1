@@ -42,6 +42,18 @@ Clase 1
                     Problemas de reto
                           Este es un problema propuesto por el maestro que quien lo resuelva tendrá un punto neto 
                           en la evaluación del departamental.
+                          
+              Calificación del departamental
+                    Se compone de suma: Tareas*(pt)+Participaciones*(pp)+Evaluación continua*(pe)+Examen*(pex)
+                          pt: porcentaje que acordo el grupo para las tareas.
+                          pp: porcentaje que acordo el grupo para las participaciones.
+                          pe: porcentaje que acordo el grupo para la evaluación continua.
+                          pex: porcentaje que acordo el grupo para el examen.
+                    Si un alumno tuvo un problema de reto se aplicará como un punto a la suma.
+             calificación final
+                    Suma final=(suma departamental1+suma departamental2+suma departamental3)/3
+                    
+                    
 Clase 2
     
       Identidades Trigonométricas.
